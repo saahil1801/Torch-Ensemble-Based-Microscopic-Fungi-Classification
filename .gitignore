@@ -1,0 +1,9 @@
+checkpoint_fold1_best.pth
+checkpoint_fold2_best.pth
+checkpoint_fold3_best.pth
+checkpoint_fold4_best.pth
+checkpoint_fold5_best.pth
+checkpoint_foldss1_best.pth
+env/
+env1/
+inital_models/
