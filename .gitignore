@@ -7,3 +7,4 @@ checkpoint_foldss1_best.pth
 env/
 env1/
 inital_models/
+app/models.py
